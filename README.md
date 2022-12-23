@@ -24,9 +24,6 @@
 - 문의 서비스
 
 
-# ERD
-![ERD](./NEOS.drawio.png)
-
 
 
 
